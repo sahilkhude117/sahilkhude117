@@ -72,7 +72,3 @@ Bachelor's Degree in Information Technology | July 2023 - Present
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilkhude)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilkhude117&show_icons=true&count_private=true&theme=algolia&v2" width="348"/>
-</p>
